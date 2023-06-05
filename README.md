@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-# [1 of 1 Servers](discord.gg/quasarstore) | Owner ![rating](https://img.shields.io/badge/rating-★★★★★-brightgreen)
+# [QuasarStore](discord.gg/quasarstore) | Developer ![rating](https://img.shields.io/badge/rating-★★★★★-brightgreen) ![discord](https://img.shields.io/discord/1042987309198483607?style=flat&logo=discord&logoColor=white)
 Powerful dedicated servers and VPS servers to host your roleplay servers with the strongest DDoS protection on the market.
 
 A comprehensive Discord bot that makes managing your community effortless and efficient. With its all-in-one approach, Guilda provides you with everything you need to set up and run your community with ease.
