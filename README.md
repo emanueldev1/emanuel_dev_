@@ -15,4 +15,4 @@ Providing high quality FiveM assets since 2021
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanueldev1&show_icons=true&theme=tokyonight)
 
-![Profile views](https://gpvc.arturio.dev/monkeywhisper)
+![Profile views](https://gpvc.arturio.dev/emanueldev1)
