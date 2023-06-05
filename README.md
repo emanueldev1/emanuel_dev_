@@ -4,19 +4,15 @@
 </h1>
 
 # [QuasarStore](discord.gg/quasarstore) | Developer ![rating](https://img.shields.io/badge/rating-★★★★★-brightgreen) ![discord](https://img.shields.io/discord/1042987309198483607?style=flat&logo=discord&logoColor=white)
-Powerful dedicated servers and VPS servers to host your roleplay servers with the strongest DDoS protection on the market.
+Providing high quality FiveM assets since 2021
 
-A comprehensive Discord bot that makes managing your community effortless and efficient. With its all-in-one approach, Guilda provides you with everything you need to set up and run your community with ease.
-
-Use code "GetGuilda2023" at checkout to get an extra 10% off yearly subscription!
 
 # About Me
-- 🔭 I’m currently working on - [1 of 1 Servers](https://discord.gg/1of1servers), [Project Sloth](https://github.com/Project-Sloth) and [Guilda](https://guildabot.com/)
-- 💬 Ask me about - My monkey Sophia!
-- 📫 How to reach me: Via [Discord](https://discord.gg/projectsloth) or email me at info@projectsloth.org
+- 🔭 I’m currently working on - [QuasarStore](https://discord.gg/quasarstore), and working on UNREAL ENGINE 5 Projects
+- 📫 How to reach me: email me at works@index-dev.tech
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MonkeyWhisper&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=emanueldev1&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonkeyWhisper&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanueldev1&show_icons=true&theme=tokyonight)
 
 ![Profile views](https://gpvc.arturio.dev/monkeywhisper)
