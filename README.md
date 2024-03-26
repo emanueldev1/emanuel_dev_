@@ -4,7 +4,7 @@
 </h1>
 
 # Solumnet, LLC | Founder ![rating](https://img.shields.io/badge/rating-★★★★★-brightgreen)
-Providing high quality FiveM assets since 2021
+Providing high quality Hosting since 2024
 
 
 
