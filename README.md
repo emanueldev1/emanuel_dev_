@@ -10,8 +10,8 @@ Providing high quality Hosting since 2024
 
 
 # About Me
-- 🔭 I’m currently working on - [QuasarStore](https://discord.gg/quasarstore), and working on UNREAL ENGINE 5 Projects
-- 📫 How to reach me: email me at works@index-dev.tech
+- 🔭 currently manage - Solumnet, LLC. and working on UNREAL ENGINE 5 Projects
+- 📫 How to reach me: email me at works@solumnet.com
 
 [![GitHub](https://github-readme-streak-stats.herokuapp.com?user=emanueldev1&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
