@@ -3,8 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-# Solumnet, LLC | Founder ![rating](https://img.shields.io/badge/rating-★★★★★-brightgreen)
-Providing high quality Hosting since 2024
+# Quasar-Store.com ![rating](https://img.shields.io/badge/rating-★★★★★-brightgreen)
+Visit us on the best!
+https://www.quasar-store.com
 
 
 
