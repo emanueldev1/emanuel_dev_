@@ -11,8 +11,8 @@ https://www.quasar-store.com
 
 
 # About Me
-- 🔭 currently manage - Solumnet, LLC. and working on UNREAL ENGINE 5 Projects
-- 📫 How to reach me: email me at works@solumnet.com
+- 🔭 making fivem scripts and working on UNREAL ENGINE 5 Projects
+- 📫 How to reach me: email me at emanuel@solumnet.com
 
 [![GitHub](https://github-readme-streak-stats.herokuapp.com?user=emanueldev1&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
